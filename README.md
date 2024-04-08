@@ -20,8 +20,8 @@ Hello! I'm Guilherme
 * ⏲️ Most of the time, I don't have time...So I manage to extract 100% of the 24-hour day
 
 **Skills**
-* C for microcontrollers;
-* C++ for microcontrollers;
+* Embedded C;
+* Embedded C++;
 * Labview;
 * Altium Designer;
 * Basic SolidWorks knowledge;
