@@ -1,7 +1,7 @@
 Hello! I'm Guilherme
 
 * 🎓 I'm currently finishing Electrotechnical and Computer Engineering at [Polytechnique University of Leiria](https://www.ipleiria.pt/en/)
-* 🎓 Final Project: Battery Bi - Directional Battery Converter ---> I am designing the [Hardware](https://github.com/guimtcandido/Battery-BDC-Hardware), [Firmware](https://github.com/guimtcandido/Battery-BDC-Firmware) and [Software](https://github.com/guimtcandido/Battery-BDC-Software).
+* 🎓 Final Project: Bi - Directional Battery Converter ---> I am designing the [Hardware](https://github.com/guimtcandido/Battery-BDC-Hardware), [Firmware](https://github.com/guimtcandido/Battery-BDC-Firmware) and [Software](https://github.com/guimtcandido/Battery-BDC-Software).
 * 💻 Currently working as a department manager at [ESA Baterias](https://esabaterias.pt/)
 * 🤖 Currently working on a family company for custom industrial machinery design and development
 * 🔌 My passion: Power Electronics ❤️
